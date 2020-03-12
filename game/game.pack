@@ -1,0 +1,22 @@
+﻿/*****************************************************************************
+
+                        Copyright © 
+
+******************************************************************************/
+
+#include @"game\game.ph"
+
+#requires @"game\game.frm"
+% privately used packages
+#include @"pfc\math\math.ph"
+#include @"pfc\stream\stream.ph"
+#include @"pfc\vpi\vpi.ph"
+#include @"resourceIdentifiers.i"
+#include @"pfc\exception\exception.ph"
+
+% private interfaces
+
+% private classes
+
+% implementations
+#include @"game\game.pro"
